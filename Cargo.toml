@@ -1,6 +1,6 @@
 [package]
 name = "ruwren-sys"
-version = "0.2.1"
+version = "0.3.0"
 authors = ["Jengamon <bob.hostern@gmail.com>"]
 edition = "2018"
 build = "build.rs"
